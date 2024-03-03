@@ -1,6 +1,6 @@
 # uno-releases
 
-🔐 get private repo artifacts file with cloudflare works.
+私人仓库更新获取
 
 ```bash
 npm install
